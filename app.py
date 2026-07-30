@@ -59,4 +59,4 @@ if api_key:
             except Exception as e:
                 st.error(f"Error: {e}")
 else:
-    st.info("👈 Please enter y
+    st.info("👈 Please enter your Gemini API Key in the sidebar to start using Aura AI.")
